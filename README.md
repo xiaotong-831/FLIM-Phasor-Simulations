@@ -10,4 +10,11 @@ The 'Single_exponential_decay_simulations.py' simulates fluorescence decay chara
 
 The 'Multi_exponential_decay_simulations.py' contains code to simulate double exponential decays mixtures with different fractions of free and bound NADH. The purpose of this simulation is to (a) learn how differeny system parameters affect the phasor results and to (b) find optimal parameters to balance the trade-off between acquisition speed, lifetime resolution/separability and photon flux. 
 
-## Phasor analysis tool 
+## Phasor analysis simulation 
+
+The 'Phasor calculations.py' contains code for uses to import their FLIM data and plot phasors to perform analysis. The code includes calibration procedure, phasor analysis, with the degree of freedom to add or modify intensity threshold masks and filters. 
+
+
+
+
+
