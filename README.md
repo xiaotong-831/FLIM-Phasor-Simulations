@@ -12,7 +12,7 @@ The 'Multi_exponential_decay_simulations.py' contains code to simulate double ex
 
 ## Phasor analysis simulation 
 
-The 'Phasor analysis for experimental data.py' contains code for uses to import their FLIM data and plot phasors to perform analysis. The code includes calibration procedure, phasor analysis, with the degree of freedom to add or modify intensity threshold masks and filters. 
+The 'Phasor analysis for experimental data.py' contains code for uses to import their FLIM calibration and experimental data and plot phasors to perform analysis. The code includes calibration procedure, phasor analysis, with the degree of freedom to add or modify intensity threshold masks and filters, and the function to select regions on the phasor plots using circular masks and map the corresponding pixels on the original image. This function enables the user to select the region of interest on the phasor plots and locate contributing pixels in order to identify the source of fluorescence, noisy phasors and so on.
 
 
 
