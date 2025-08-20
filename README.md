@@ -8,7 +8,7 @@ The 'Single_exponential_decay_simulations.py' simulates fluorescence decay chara
 
 ## Multi-exponential decay phasor simulation 
 
-The 'Multi_exponential_decay_simulations.py' contains code to simulate double exponential decays mixtures with different fractions of free and bound NADH. The purpose of this simulation is to (a) learn how differeny system parameters affect the phasor results and to (b) find optimal parameters to balance the trade-off between acquisition speed, lifetime resolution/separability and photon flux. 
+The `Multi_exponential_decay_simulations` function contains code to simulate double exponential decays mixtures with different fractions of free and bound NADH. The purpose of this simulation is to (a) learn how differeny system parameters affect the phasor results and to (b) find optimal parameters to balance the trade-off between acquisition speed, lifetime resolution/separability and photon flux. 
 
 ## Phasor analysis simulation 
 
